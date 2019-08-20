@@ -1,0 +1,4 @@
+¡Detalle importante!
+
+Las regionalizaciones sólo consideran quienes son los vecinos
+No el peso de cada uno.
